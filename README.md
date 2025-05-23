@@ -3,5 +3,5 @@
 - Built a user-friendly Streamlit web app supporting image uploads and live camera input, with real-time health status analysis.
 - Integrated email functionality to auto-send generated medical reports.
 - Resnet50 model accuracy: 75.53%
-- Dataset: 480 images 
+- Dataset: 480 images, Train: 420 images, Test: 60 images. 
 - Tech stack: Python, Streamlit, OpenCV, NumPy, Pandas, Smtplib.
